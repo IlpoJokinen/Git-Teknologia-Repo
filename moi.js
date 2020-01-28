@@ -1,6 +1,12 @@
 <html>
-<title>ONGELMA?</title>
 <body>
-<p>ONGELMA?</p>
+<p>Moi Ilpo</p>
+
+<script>
+    function multiply(x, y) {
+        x * y = z
+        return z
+    }
+</script>
 </body>
 </html>
