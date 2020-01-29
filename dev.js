@@ -9,13 +9,10 @@ const randomThing = () => {
             return <p>something</p>
         }
     }
-    function divide(x, y) {
-        return x / y
-    }
 
     return (
-        <b>Tämä on muutos etärepositoryn master haarassa!</b>
-        divide
+        <h1>UUSI MUUTOS! Tämä on muutos alkuperäisen paikallisen repositoryn 
+            master haarassa</h1>
     )
 }
 
